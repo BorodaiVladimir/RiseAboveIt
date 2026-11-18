@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "ue_version": "5.7.4",
+  "ue_assets": 47,
+  "shared_skeleton_unchanged": true,
+  "all_materials_valid": true,
+  "no_test_project_dependencies": true,
+  "pose_comparisons": [
+    {
+      "weapon": "Spear",
+      "action": "Level3",
+      "frame": 0,
+      "max_bone_position_error_cm": 0.0
+    },
+    {
+      "weapon": "Crossbow",
+      "action": "Fire_L3",
+      "frame": 6,
+      "max_bone_position_error_cm": 0.0
+    },
+    {
+      "weapon": "Crossbow",
+      "action": "Reload_L3",
+      "frame": 30,
+      "max_bone_position_error_cm": 0.0
+    }
+  ],
+  "exported_rest_poses": {
+    "Spear": {
+      "bone_count": 112,
+      "max_rest_matrix_error": 0
+    },
+    "Crossbow": {
+      "bone_count": 122,
+      "max_rest_matrix_error": 0
+    },
+    "SK_FP_Fists_Sewer_Upg1_RagWraps": {
+      "bone_count": 40,
+      "max_rest_matrix_error": 0.0
+    },
+    "SK_FP_Fists_Sewer_Upg2_ScrapKnuckles": {
+      "bone_count": 40,
+      "max_rest_matrix_error": 0.0
+    },
+    "SK_FP_Fists_Sewer_Upg3_WireBrace": {
+      "bone_count": 40,
+      "max_rest_matrix_error": 0.0
+    }
+  },
+  "unchanged_animation_fbx_files": 40,
+  "fist_pose_layer_checks": 144,
+  "max_fist_skin_penetration_m": 0.0019513542065396905,
+  "first_location_sources_unchanged": true
+}
