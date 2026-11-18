@@ -16,3 +16,8 @@
 # Sewer weapon source assets
 Art/Weapons/Sewer/FBX/**/*.fbx filter=lfs diff=lfs merge=lfs -text
 Art/Weapons/Sewer/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
+
+# Ordinary toad source assets
+Art/Mobs/Toad/FBX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Toad/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Toad/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
