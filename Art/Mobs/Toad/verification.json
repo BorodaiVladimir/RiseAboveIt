@@ -1,0 +1,47 @@
+{
+  "pose_report.json": {
+    "status": "PASS",
+    "clips": {
+      "Move": {
+        "frames_checked": 49,
+        "minimum_skin_z_m": 0.024749750271439552,
+        "max_joint_gap_m": 0.0,
+        "max_bone_length_change_m": 2.6033753495191547e-06,
+        "max_foot_contact_error_m": 1.8907756691480928e-06,
+        "minimum_support_feet": 3,
+        "end_seam_matrix_error": 0.0
+      },
+      "Hit": {
+        "frames_checked": 31,
+        "minimum_skin_z_m": 0.024748368188738823,
+        "max_joint_gap_m": 0.0,
+        "max_bone_length_change_m": 2.127059019141342e-06,
+        "max_foot_contact_error_m": 2.8362355239337995e-06,
+        "minimum_support_feet": 4,
+        "end_seam_matrix_error": 0.0
+      }
+    },
+    "original_boss_sources_unchanged": true
+  },
+  "ue_reload_report.json": {
+    "status": "PASS",
+    "engine": "5.7.4-51494982+++UE5+Release-5.7",
+    "skeleton": "/Game/RiseAboveIt/Mobs/Toad/SK_Toad_Skeleton.SK_Toad_Skeleton",
+    "mesh": "/Game/RiseAboveIt/Mobs/Toad/SK_Toad.SK_Toad",
+    "clip_durations_s": {
+      "Idle": 4.0,
+      "Move": 1.600000023841858,
+      "Attack_Tongue": 3.0,
+      "Hit": 1.0,
+      "Death": 2.0
+    },
+    "max_foot_contact_error_cm": {
+      "Move": 0.0002867552295110265,
+      "Hit": 0.00043822751004350474
+    },
+    "max_root_translation_cm": 0,
+    "materials": [
+      "/Game/RiseAboveIt/Materials/M_Palette.M_Palette"
+    ]
+  }
+}
