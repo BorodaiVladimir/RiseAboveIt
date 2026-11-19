@@ -1,0 +1,264 @@
+{
+  "status": "PASS",
+  "version": 4,
+  "clips": {
+    "Idle": {
+      "frames": 121,
+      "min_skin_z_m": 0.01999935507774353,
+      "joint_gap_m": 0.0,
+      "length_error_m": 1.2880195309761255e-06,
+      "max_bend_deg": 7.047399430902911,
+      "max_bend_case": [
+        89,
+        42
+      ],
+      "min_body_center_clearance_ratio": 1.4535259002402052,
+      "closest_body_case": [
+        87,
+        9,
+        13
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 5.713505320908087,
+      "max_frame_rotation_deg": 0.05595291023658669,
+      "max_tail_frame_rotation_deg": 0.05595291023658669,
+      "lowest_up_dot": 0.9915542006492615
+    },
+    "Move": {
+      "frames": 61,
+      "min_skin_z_m": 0.019999558106064796,
+      "joint_gap_m": 0.0,
+      "length_error_m": 1.049839596034552e-06,
+      "max_bend_deg": 10.642868212831923,
+      "max_bend_case": [
+        10,
+        1
+      ],
+      "min_body_center_clearance_ratio": 1.453530174738586,
+      "closest_body_case": [
+        0,
+        9,
+        13
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 7.635788638274598,
+      "max_frame_rotation_deg": 4.332906923871165,
+      "max_tail_frame_rotation_deg": 3.9795495134994265,
+      "lowest_up_dot": 0.9762338399887085
+    },
+    "Coil_Enter": {
+      "frames": 61,
+      "min_skin_z_m": 0.019998814910650253,
+      "joint_gap_m": 0.0,
+      "length_error_m": 8.436353118868034e-07,
+      "max_bend_deg": 28.558065938766322,
+      "max_bend_case": [
+        60,
+        2
+      ],
+      "min_body_center_clearance_ratio": 1.2137864963010196,
+      "closest_body_case": [
+        41,
+        25,
+        53
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 15.01135902200276,
+      "max_frame_rotation_deg": 27.821773085649777,
+      "max_tail_frame_rotation_deg": 27.821773085649777,
+      "lowest_up_dot": 0.8047904372215271
+    },
+    "Coil_Idle": {
+      "frames": 91,
+      "min_skin_z_m": 0.019998252391815186,
+      "joint_gap_m": 0.0,
+      "length_error_m": 7.846309048598066e-07,
+      "max_bend_deg": 29.592084862119968,
+      "max_bend_case": [
+        67,
+        2
+      ],
+      "min_body_center_clearance_ratio": 1.2326920075983079,
+      "closest_body_case": [
+        67,
+        19,
+        39
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 15.0293207119726,
+      "max_frame_rotation_deg": 0.22381167429689502,
+      "max_tail_frame_rotation_deg": 0.05595291023658669,
+      "lowest_up_dot": 0.7802492380142212
+    },
+    "Attack_Bite": {
+      "frames": 49,
+      "min_skin_z_m": 0.019997911527752876,
+      "joint_gap_m": 0.0,
+      "length_error_m": 8.583783810967027e-07,
+      "max_bend_deg": 41.91199418130086,
+      "max_bend_case": [
+        9,
+        2
+      ],
+      "min_body_center_clearance_ratio": 0.8700892846997437,
+      "closest_body_case": [
+        18,
+        8,
+        23
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 17.06310686753957,
+      "max_frame_rotation_deg": 36.24187411013217,
+      "max_tail_frame_rotation_deg": 7.299389756270932,
+      "lowest_up_dot": 0.6278203129768372
+    },
+    "Attack_Combo": {
+      "frames": 91,
+      "min_skin_z_m": 0.019997911527752876,
+      "joint_gap_m": 0.0,
+      "length_error_m": 8.583783810967027e-07,
+      "max_bend_deg": 41.91199418130086,
+      "max_bend_case": [
+        9,
+        2
+      ],
+      "min_body_center_clearance_ratio": 0.8586211562402201,
+      "closest_body_case": [
+        42,
+        9,
+        23
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 17.474306453689138,
+      "max_frame_rotation_deg": 42.05355161357627,
+      "max_tail_frame_rotation_deg": 8.611504648298265,
+      "lowest_up_dot": 0.6278203129768372
+    },
+    "Coil_Exit": {
+      "frames": 61,
+      "min_skin_z_m": 0.019998814910650253,
+      "joint_gap_m": 0.0,
+      "length_error_m": 8.436353118868034e-07,
+      "max_bend_deg": 28.558065938766322,
+      "max_bend_case": [
+        0,
+        2
+      ],
+      "min_body_center_clearance_ratio": 1.2137864963010196,
+      "closest_body_case": [
+        19,
+        25,
+        53
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 15.01135902200276,
+      "max_frame_rotation_deg": 27.821773085649777,
+      "max_tail_frame_rotation_deg": 27.821773085649777,
+      "lowest_up_dot": 0.8047904372215271
+    },
+    "Hit": {
+      "frames": 31,
+      "min_skin_z_m": 0.019998397678136826,
+      "joint_gap_m": 0.0,
+      "length_error_m": 9.343805379979919e-07,
+      "max_bend_deg": 45.449192058099555,
+      "max_bend_case": [
+        3,
+        3
+      ],
+      "min_body_center_clearance_ratio": 1.2328093183580735,
+      "closest_body_case": [
+        19,
+        19,
+        39
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 15.02913629686501,
+      "max_frame_rotation_deg": 15.280723782943934,
+      "max_tail_frame_rotation_deg": 0.3538774132280195,
+      "lowest_up_dot": 0.7340011596679688
+    },
+    "Hit_Move": {
+      "frames": 31,
+      "min_skin_z_m": 0.019999509677290916,
+      "joint_gap_m": 0.0,
+      "length_error_m": 9.813669797353874e-07,
+      "max_bend_deg": 7.129400120757146,
+      "max_bend_case": [
+        10,
+        42
+      ],
+      "min_body_center_clearance_ratio": 1.4530190600545214,
+      "closest_body_case": [
+        3,
+        9,
+        13
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 5.734836855459684,
+      "max_frame_rotation_deg": 1.1521457797136967,
+      "max_tail_frame_rotation_deg": 0.44762356203765963,
+      "lowest_up_dot": 0.9897911548614502
+    },
+    "Death": {
+      "frames": 103,
+      "min_skin_z_m": 0.019996285438537598,
+      "joint_gap_m": 0.0,
+      "length_error_m": 8.987409166882898e-07,
+      "max_bend_deg": 28.558065938766322,
+      "max_bend_case": [
+        0,
+        2
+      ],
+      "min_body_center_clearance_ratio": 1.2335332503669392,
+      "closest_body_case": [
+        5,
+        19,
+        39
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 15.011386342759439,
+      "max_frame_rotation_deg": 25.389333982050374,
+      "max_tail_frame_rotation_deg": 25.389333982050374,
+      "lowest_up_dot": 1.0
+    },
+    "Death_Move": {
+      "frames": 103,
+      "min_skin_z_m": 0.019995152950286865,
+      "joint_gap_m": 0.0,
+      "length_error_m": 7.980353764480697e-07,
+      "max_bend_deg": 7.54615862711746,
+      "max_bend_case": [
+        54,
+        27
+      ],
+      "min_body_center_clearance_ratio": 1.4523363196185866,
+      "closest_body_case": [
+        54,
+        9,
+        13
+      ],
+      "settled_motion": 0.0,
+      "max_tail_bend_deg": 6.381162288692358,
+      "max_frame_rotation_deg": 6.499242098936803,
+      "max_tail_frame_rotation_deg": 4.435052326043688,
+      "lowest_up_dot": 1.0
+    }
+  },
+  "transition_checks": {
+    "Coil_Enter_0": 1.519918441772461e-06,
+    "Coil_Enter_60": 1.5497207641601562e-06,
+    "Coil_Exit_0": 1.5497207641601562e-06,
+    "Coil_Exit_60": 1.519918441772461e-06,
+    "Attack_Bite_0": 0.0,
+    "Attack_Combo_0": 0.0,
+    "Hit_0": 0.0,
+    "Death_0": 1.5497207641601562e-06,
+    "Hit_Move_0": 0.0,
+    "Death_Move_0": 2.384185791015625e-07,
+    "Attack_Bite_48": 0.0,
+    "Attack_Combo_90": 0.0,
+    "Hit_30": 0.0,
+    "Hit_Move_30": 0.0
+  }
+}

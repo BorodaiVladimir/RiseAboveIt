@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "mesh": "/Game/RiseAboveIt/Mobs/Snake/SK_Snake.SK_Snake",
+  "skeleton": "/Game/RiseAboveIt/Mobs/Snake/SK_Snake_Skeleton.SK_Snake_Skeleton",
+  "clip_durations_s": {
+    "Idle": 4.0,
+    "Move": 2.0,
+    "Coil_Enter": 2.0,
+    "Coil_Idle": 3.0,
+    "Attack_Bite": 1.600000023841858,
+    "Attack_Combo": 3.0,
+    "Coil_Exit": 2.0,
+    "Hit": 1.0,
+    "Hit_Move": 1.0,
+    "Death": 3.4000000953674316,
+    "Death_Move": 3.4000000953674316
+  },
+  "pose_checks": {
+    "Idle": {
+      "length_error_cm": 0.0002639273526767738,
+      "eye_attachment_error_cm": 5.684341886080802e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 0.0,
+      "body_motion_cm": 1.394366245564594
+    },
+    "Move": {
+      "length_error_cm": 0.00022742889037985492,
+      "eye_attachment_error_cm": 5.684341886080802e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 0.21884441375732422,
+      "body_motion_cm": 196.8493418864009
+    },
+    "Coil_Enter": {
+      "length_error_cm": 0.00022067548875170928,
+      "eye_attachment_error_cm": 1.4210854715202004e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 363.97679642875994,
+      "body_motion_cm": 2524.874176516505
+    },
+    "Coil_Idle": {
+      "length_error_cm": 5.3862251782277326e-05,
+      "eye_attachment_error_cm": 8.526512829121202e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 4.493951797485352,
+      "body_motion_cm": 4.493975639343262
+    },
+    "Attack_Bite": {
+      "length_error_cm": 5.3862251782277326e-05,
+      "eye_attachment_error_cm": 7.105427357601002e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 250.27821786438398,
+      "body_motion_cm": 250.27816070752328
+    },
+    "Attack_Combo": {
+      "length_error_cm": 5.3862251782277326e-05,
+      "eye_attachment_error_cm": 7.105427357601002e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 285.1021912059598,
+      "body_motion_cm": 285.1021107685169
+    },
+    "Coil_Exit": {
+      "length_error_cm": 0.00021021568250390033,
+      "eye_attachment_error_cm": 1.4210854715202004e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 363.97679642875994,
+      "body_motion_cm": 1624.4481936188085
+    },
+    "Hit": {
+      "length_error_cm": 5.386225178583004e-05,
+      "eye_attachment_error_cm": 7.105427357601002e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 43.04485490909948,
+      "body_motion_cm": 43.04489363338092
+    },
+    "Hit_Move": {
+      "length_error_cm": 0.00024159509450427663,
+      "eye_attachment_error_cm": 7.105427357601002e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 32.39170270870892,
+      "body_motion_cm": 32.39172031172917
+    },
+    "Death": {
+      "length_error_cm": 3.8744255213885026e-05,
+      "eye_attachment_error_cm": 8.526512829121202e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 436.52657958280474,
+      "body_motion_cm": 1646.5046090665023
+    },
+    "Death_Move": {
+      "length_error_cm": 0.0002484303070851013,
+      "eye_attachment_error_cm": 7.105427357601002e-14,
+      "root_translation_cm": 0.0,
+      "head_motion_cm": 113.90032267124927,
+      "body_motion_cm": 113.90030618924851
+    }
+  },
+  "material": "/Game/RiseAboveIt/Mobs/Snake/M_Snake.M_Snake"
+}

@@ -21,3 +21,8 @@ Art/Weapons/Sewer/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Toad/FBX/*.fbx filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Toad/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Toad/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Approved snake source assets
+Art/Mobs/Snake/FBX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Snake/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Snake/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
