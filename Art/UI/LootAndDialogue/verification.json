@@ -1,0 +1,389 @@
+{
+  "status": "PASS",
+  "approved_png": 46,
+  "transparent_preview_png": 1,
+  "ue_textures": 24,
+  "all_copied_bytes_match_reviewed_package": true,
+  "files": [
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Dialogue/T_UI_RoachCrafter_Bust.png",
+      "sha256": "5dd1e98636f91717540d6c2397a2fdf5677c755d6900afe59cfd502086c5a5f8",
+      "bytes": 555151
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Dialogue/T_UI_RoachCrafter_Full.png",
+      "sha256": "2e01533c177afe50d0598c13d972e8caa5952184e104cf371fce6081a5e7b2c0",
+      "bytes": 767884
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_Bandage.png",
+      "sha256": "d95b7af04b6a5e4268eedbe35576f3bd1eb9abdd4624db2ff256b90a0baaecac",
+      "bytes": 11746
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_BearingBall.png",
+      "sha256": "7e119d2060c86a03e8cf3428b048e1f3138c62138c70bd190635ce26e8066708",
+      "bytes": 16007
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_Capacitor.png",
+      "sha256": "8f0875740d8694266f81984be0668c85f7b9dcb178c1ff39acea6c886456f23f",
+      "bytes": 15042
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_CopperWire.png",
+      "sha256": "efafa54fb7292deb33bd34b2f1b09f3ae2824560311932e961c73ad9620e33ea",
+      "bytes": 15483
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_Gear.png",
+      "sha256": "7a4d9c76bf3131387234df0dc4168ef6cd40190d850aa05feaafb637b70e0a51",
+      "bytes": 19994
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_GlassBead.png",
+      "sha256": "f7913bdfb11c57bbf6623933f12d3d39568c334f4545b070c785dae08a88a370",
+      "bytes": 14912
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_Hair.png",
+      "sha256": "82b7a9a98b325b711007176d845febb439e2d56a6dec9cb36f7b6a68f435b458",
+      "bytes": 13528
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_MosquitoNeedle.png",
+      "sha256": "de516fe34ff40003f94024cd673bd2e69f4ff2147802f0e79c43e7d894fffbd4",
+      "bytes": 10510
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_RazorShard.png",
+      "sha256": "7dd4c564ddc92b3ad83a175312fbcf535b797ade85bf76ac4f00ee0fcdfaff62",
+      "bytes": 12067
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_Tape.png",
+      "sha256": "7210bfdef3fa0ca6d8b3cdf5ced395f9274f30bf973d68c86fa5eb13e23bd0c7",
+      "bytes": 15490
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/128/T_UI_Loot_TickChitin.png",
+      "sha256": "ab7ad3d9c3359465b578f889da29142d81b112937eebea08acdbc7026081fa53",
+      "bytes": 14462
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_Bandage.png",
+      "sha256": "a3c1e5f5d943425a64d1583cf9183513045f250eeeee94a09db6b023ccf4657a",
+      "bytes": 35256
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_BearingBall.png",
+      "sha256": "8044bbe08cdd7d88d42ae0a63307ed8162982ff8dd9681bc364fde1a313f12d2",
+      "bytes": 52312
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_Capacitor.png",
+      "sha256": "689cb0daa77d7f2dba212e62b8f6a1d1d26bd726140f5ee1593afde195b702ff",
+      "bytes": 46779
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_CopperWire.png",
+      "sha256": "a774345c3b49024d3f01f8a8c35a9f2cd01651a32a0f753ada79e291acc50fab",
+      "bytes": 45946
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_Gear.png",
+      "sha256": "f7a38aacad35b620eb3de7f654c2740107abb9607bc63ddd2e7e18fdb02fcd1f",
+      "bytes": 59444
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_GlassBead.png",
+      "sha256": "7bf932542daeee204389d5b3fd0108d6b77357077594ed1a3d2bc743dfa3cae7",
+      "bytes": 47720
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_Hair.png",
+      "sha256": "02009368fb6832e76a69637ea370c8ff6da91cc40495f03fa9981ddb21bb2838",
+      "bytes": 40111
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_MosquitoNeedle.png",
+      "sha256": "fca2ba653fa732c49c755a9fd5e0b4bf871f7f7562f68de9bf0090880e5c8a4b",
+      "bytes": 32898
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_RazorShard.png",
+      "sha256": "97c4b9c6e5294781d77a789896d62cfa2e96e7ea20cc5b468a5df326b397f5be",
+      "bytes": 38271
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_Tape.png",
+      "sha256": "3f3afc3f9885017507e653817757c9d0a29af295fe8d241028d718a3b6a5731f",
+      "bytes": 46961
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/256/T_UI_Loot_TickChitin.png",
+      "sha256": "c262b095d4eeee4fd2b482c2e91ef2773b372202b12a159824a6240c76892e05",
+      "bytes": 45672
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_Bandage.png",
+      "sha256": "055215b62bdf9d86266029b996ebd8ff279f849fea668c688b09b356a4f0dd13",
+      "bytes": 114916
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_BearingBall.png",
+      "sha256": "11d58fef08455ffb02e67f7062779eac80c08b1dd8946073f319673a2155856d",
+      "bytes": 184908
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_Capacitor.png",
+      "sha256": "2c327818f77046aec70281421e377b799822a00bc01fc1718b8ab4987f85fd79",
+      "bytes": 158824
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_CopperWire.png",
+      "sha256": "79706d72a1eea0d60048adc8b557265707516c433d2d9b5c1472e2934dcf8600",
+      "bytes": 147109
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_Gear.png",
+      "sha256": "6d0dab75de81a730dc507a569347518177919a8b194711e9a64ac33ee34c9080",
+      "bytes": 186071
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_GlassBead.png",
+      "sha256": "effc7494093e67a69c94388cf97823a1bc7221c2c3d67d0da11bb5f85964010c",
+      "bytes": 165573
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_Hair.png",
+      "sha256": "4d64a943c8238cf872af7e271d5716b866bf9fb4302fb054ec07a8c1ffdad7af",
+      "bytes": 131275
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_MosquitoNeedle.png",
+      "sha256": "70dfe2183e7b9ae62a1d3f0afde802ec1cdff9630633911e7adec96c67c797aa",
+      "bytes": 112938
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_RazorShard.png",
+      "sha256": "2043cde46332da89bf6deadd1f8dab7c0e12f5b02e4afbe41e33f7653b59e65f",
+      "bytes": 132585
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_Tape.png",
+      "sha256": "ea359e1a2bc0c8182218723f20e5a008c74f0ede6ecf7a96ef47829ab1c8f4ec",
+      "bytes": 155841
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/512/T_UI_Loot_TickChitin.png",
+      "sha256": "553dd46dd68e46b3d984fb61cd50bf35feb3213bc79b47cb816325321dca8bc5",
+      "bytes": 154305
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_Bandage_Mask.png",
+      "sha256": "da123cc2e234476b9361d04acf7c05cb419e40ce0b9d1a13b2d99557668e556a",
+      "bytes": 94883
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_BearingBall_Mask.png",
+      "sha256": "8d3a455a675736d66c40c5e6b5fa95477099f410a069209cd2e9e9303e3422cf",
+      "bytes": 146758
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_Capacitor_Mask.png",
+      "sha256": "e6b660cdc00ff72cf84a543e9fef913721cf5533147ca4a498eeb3ac8648c47c",
+      "bytes": 123293
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_CopperWire_Mask.png",
+      "sha256": "f604459d625b4ee4f16bbca51fe53c202b2d0756739f582a017d94cf29369d60",
+      "bytes": 115848
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_Gear_Mask.png",
+      "sha256": "b0014b07979b9ff3880fd4e9e3f85643c96d234ab1133a5a77c6dc9265e83273",
+      "bytes": 154034
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_GlassBead_Mask.png",
+      "sha256": "3a61dd5854d8d34fa51ba19ce28b3827911ca26a3f98199445e1fd3a8a146732",
+      "bytes": 142892
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_Hair_Mask.png",
+      "sha256": "505c0f29d08a11f096319101b00be92b833bf0517f252010496bba24cab0cac2",
+      "bytes": 121388
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_MosquitoNeedle_Mask.png",
+      "sha256": "d3581962b6ab6e8cf1a99bf5275a61bbb6462d204223a119601d2767f93fa7f7",
+      "bytes": 105680
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_RazorShard_Mask.png",
+      "sha256": "557841576b557682192ff985351f5c202903aeeb636f7cfd9eb6bb3618a6e5c0",
+      "bytes": 111924
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_Tape_Mask.png",
+      "sha256": "7769777f2fb368fdb770ea0dacba1089b90967aed79e4b0763799215e57684ba",
+      "bytes": 132648
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/PNG/Loot/Tintable512/T_UI_Loot_TickChitin_Mask.png",
+      "sha256": "3b60654a91d8dc8650f899c4ab891f7f522c0b86dd785da2ece3321f99fb2d47",
+      "bytes": 141710
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/Preview/Loot_Overview.png",
+      "sha256": "7e3f6354c01bdf0ab3bfab879603d970071df6c89f0fa9ca1f8dba53e0d6c851",
+      "bytes": 301408
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/manifest.json",
+      "sha256": "cc3a547f8cbd78b07c7b36cbff81d9bd391a9b2fc04d09f9d1004df805a15a23",
+      "bytes": 4590
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/loot_audit_report.json",
+      "sha256": "cccb8af63faecd0693d18a04801b8140efca9aa722afc648ae2648e104915c72",
+      "bytes": 3025
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/png_validation_report.json",
+      "sha256": "9bdf86c1cea928ddfe6c385103b132acac69ce5032d55dc69b18b94eec356c86",
+      "bytes": 23980
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/ue_import_report.json",
+      "sha256": "18430072234369e849e7ee2a3de7e8244f26a94b789b2a30fbc31397853ebf43",
+      "bytes": 6440
+    },
+    {
+      "path": "Art/UI/LootAndDialogue/ue_reload_report.json",
+      "sha256": "eb3648b21e9828788e0930fcc2191014999b0ecf3bacaf9361c70602c63ca371",
+      "bytes": 6439
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Dialogue/T_UI_RoachCrafter_Bust.uasset",
+      "sha256": "d60ba20147a5a2b453021b91664298f3084c00bc3016a5eb50b4af7383bc3bd5",
+      "bytes": 426676
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Dialogue/T_UI_RoachCrafter_Full.uasset",
+      "sha256": "0b313c48ce867180004fb579abc30e39e5c70303a9a5f0db79194426510d887b",
+      "bytes": 590562
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Bandage.uasset",
+      "sha256": "f2e399f29d7f634983df464f549b20873397859aa710d0c3a44e0aecfdb0abf0",
+      "bytes": 97909
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_BearingBall.uasset",
+      "sha256": "9a2c3bd36a6a5003dd434647ec33b93b7347c0daeea948a6bca6e3aa92ca6e9e",
+      "bytes": 159881
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Capacitor.uasset",
+      "sha256": "457cae774ab31dc381b2005ac4e527d58fa3adb8d2fc10ff5b72f73f889742a8",
+      "bytes": 128029
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_CopperWire.uasset",
+      "sha256": "0121d2b4c0df8f6add2e09b24b4fe40d0d94d50d1db7fbc60457b705fb5e9bff",
+      "bytes": 119394
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Gear.uasset",
+      "sha256": "032dcd1486b4ee74560510c22216bdf03c061111820fab804e5515d062b2087c",
+      "bytes": 147908
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_GlassBead.uasset",
+      "sha256": "8f7f214bb72dc2d67bece35580cfd512cb1e7ef69006c43c86c37a83ec92da59",
+      "bytes": 139756
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Hair.uasset",
+      "sha256": "2a945fc792eea66265006fef89ea4142e89c40dc29afc04aac197aa37b3374c7",
+      "bytes": 108717
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_MosquitoNeedle.uasset",
+      "sha256": "dac6fea7e0fc1db5c1e7d050b2b9fab440929dfee87eacbcb91635bed4921385",
+      "bytes": 83424
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_RazorShard.uasset",
+      "sha256": "d7c8f2105901fad8278241d79137c3ce70ceaa463c6aa24f6a4bfe47e99aadf3",
+      "bytes": 104161
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Tape.uasset",
+      "sha256": "dfa8863c761b31f5d50fa2a3cd73c1d944aa8b4a421dea02e98d6ee9c3da5e05",
+      "bytes": 127834
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_TickChitin.uasset",
+      "sha256": "c56db76ad0ffd89097531963f49ac12ca425ff852d79f48aa864db15b05d1cd9",
+      "bytes": 122879
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Bandage_Mask.uasset",
+      "sha256": "5c88dd0c301a190aeb7206231ce5a03a64abbf6875febdbeaa02ab25c7683fa3",
+      "bytes": 81419
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_BearingBall_Mask.uasset",
+      "sha256": "ebd835d622e9af2d132fae8e151a934722e881dc1dcc3b064c738677962b74f4",
+      "bytes": 118036
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Capacitor_Mask.uasset",
+      "sha256": "f3dfc26522e4a14be8051c0e206d1252efea4dbe93e4d9a6f457735e9ba0a87c",
+      "bytes": 103917
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_CopperWire_Mask.uasset",
+      "sha256": "8185286627a04d527b55de8f1c16bc96101ac889e02966f22b450b587a7e2ea9",
+      "bytes": 94972
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Gear_Mask.uasset",
+      "sha256": "989157cf8a9a91d171416536176c725aa58d646d69ab64df597ed26626f1e36d",
+      "bytes": 121054
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_GlassBead_Mask.uasset",
+      "sha256": "6d28e016b70ea82d5fafa76f7168f6fab7cbf3f9f32c3e7cc8b693b87d0ea2e9",
+      "bytes": 116863
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Hair_Mask.uasset",
+      "sha256": "134d1c30e995d2e7809ba068fcf9518c195ee7a18d73299a2d4d2802748318cc",
+      "bytes": 99408
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_MosquitoNeedle_Mask.uasset",
+      "sha256": "c5d3992746261eccb789f16279f84773e16a96e06c67447838bead633817edb7",
+      "bytes": 77245
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_RazorShard_Mask.uasset",
+      "sha256": "5f754d24959da70d49cfe45fc8bc5fdfaf51eeb2197879cc04b34281ba7a6205",
+      "bytes": 84789
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Tape_Mask.uasset",
+      "sha256": "f62e66b54d9906f028ed36ee51f8f2b46b4d7d947e174ae925513021719789e5",
+      "bytes": 106198
+    },
+    {
+      "path": "Content/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_TickChitin_Mask.uasset",
+      "sha256": "60c8fa468c76c6f269cd0cdd18e92b416c1f424da769415aeeabe2713a7e6fbf",
+      "bytes": 110890
+    }
+  ]
+}

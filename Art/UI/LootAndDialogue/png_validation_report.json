@@ -1,0 +1,1206 @@
+{
+  "status": "PASS",
+  "png_count": 46,
+  "loot_count": 11,
+  "real_alpha": true,
+  "original_sources_unchanged": true,
+  "bust_side_and_top_padding_verified": true,
+  "checks": [
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_Bandage.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        134,
+        470,
+        378
+      ],
+      "edge_padding_px": [
+        42,
+        134,
+        42,
+        134
+      ],
+      "visible_area_fraction": 0.1489105224609375,
+      "sha256": "055215b62bdf9d86266029b996ebd8ff279f849fea668c688b09b356a4f0dd13"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_BearingBall.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        44,
+        42,
+        468,
+        470
+      ],
+      "edge_padding_px": [
+        44,
+        42,
+        44,
+        42
+      ],
+      "visible_area_fraction": 0.5460128784179688,
+      "sha256": "11d58fef08455ffb02e67f7062779eac80c08b1dd8946073f319673a2155856d"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_Capacitor.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        64,
+        470,
+        448
+      ],
+      "edge_padding_px": [
+        42,
+        64,
+        42,
+        64
+      ],
+      "visible_area_fraction": 0.4024009704589844,
+      "sha256": "2c327818f77046aec70281421e377b799822a00bc01fc1718b8ab4987f85fd79"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_CopperWire.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        110,
+        470,
+        402
+      ],
+      "edge_padding_px": [
+        42,
+        110,
+        42,
+        110
+      ],
+      "visible_area_fraction": 0.2778282165527344,
+      "sha256": "79706d72a1eea0d60048adc8b557265707516c433d2d9b5c1472e2934dcf8600"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_Gear.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        42,
+        470,
+        470
+      ],
+      "edge_padding_px": [
+        42,
+        42,
+        42,
+        42
+      ],
+      "visible_area_fraction": 0.3801307678222656,
+      "sha256": "6d0dab75de81a730dc507a569347518177919a8b194711e9a64ac33ee34c9080"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_GlassBead.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        55,
+        42,
+        457,
+        470
+      ],
+      "edge_padding_px": [
+        55,
+        42,
+        55,
+        42
+      ],
+      "visible_area_fraction": 0.5219917297363281,
+      "sha256": "effc7494093e67a69c94388cf97823a1bc7221c2c3d67d0da11bb5f85964010c"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_Hair.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        66,
+        42,
+        446,
+        470
+      ],
+      "edge_padding_px": [
+        66,
+        42,
+        66,
+        42
+      ],
+      "visible_area_fraction": 0.24644851684570312,
+      "sha256": "4d64a943c8238cf872af7e271d5716b866bf9fb4302fb054ec07a8c1ffdad7af"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_MosquitoNeedle.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        115,
+        42,
+        397,
+        470
+      ],
+      "edge_padding_px": [
+        115,
+        42,
+        115,
+        42
+      ],
+      "visible_area_fraction": 0.09183883666992188,
+      "sha256": "70dfe2183e7b9ae62a1d3f0afde802ec1cdff9630633911e7adec96c67c797aa"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_RazorShard.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        119,
+        42,
+        393,
+        470
+      ],
+      "edge_padding_px": [
+        119,
+        42,
+        119,
+        42
+      ],
+      "visible_area_fraction": 0.16300201416015625,
+      "sha256": "2043cde46332da89bf6deadd1f8dab7c0e12f5b02e4afbe41e33f7653b59e65f"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_Tape.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        60,
+        42,
+        452,
+        470
+      ],
+      "edge_padding_px": [
+        60,
+        42,
+        60,
+        42
+      ],
+      "visible_area_fraction": 0.36664581298828125,
+      "sha256": "ea359e1a2bc0c8182218723f20e5a008c74f0ede6ecf7a96ef47829ab1c8f4ec"
+    },
+    {
+      "path": "PNG/Loot/512/T_UI_Loot_TickChitin.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        43,
+        470,
+        469
+      ],
+      "edge_padding_px": [
+        42,
+        43,
+        42,
+        43
+      ],
+      "visible_area_fraction": 0.42910003662109375,
+      "sha256": "553dd46dd68e46b3d984fb61cd50bf35feb3213bc79b47cb816325321dca8bc5"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_Bandage.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        21,
+        67,
+        236,
+        189
+      ],
+      "edge_padding_px": [
+        21,
+        67,
+        20,
+        67
+      ],
+      "visible_area_fraction": 0.148529052734375,
+      "sha256": "a3c1e5f5d943425a64d1583cf9183513045f250eeeee94a09db6b023ccf4657a"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_BearingBall.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        22,
+        20,
+        234,
+        236
+      ],
+      "edge_padding_px": [
+        22,
+        20,
+        22,
+        20
+      ],
+      "visible_area_fraction": 0.546051025390625,
+      "sha256": "8044bbe08cdd7d88d42ae0a63307ed8162982ff8dd9681bc364fde1a313f12d2"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_Capacitor.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        20,
+        32,
+        236,
+        224
+      ],
+      "edge_padding_px": [
+        20,
+        32,
+        20,
+        32
+      ],
+      "visible_area_fraction": 0.4033050537109375,
+      "sha256": "689cb0daa77d7f2dba212e62b8f6a1d1d26bd726140f5ee1593afde195b702ff"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_CopperWire.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        21,
+        54,
+        235,
+        202
+      ],
+      "edge_padding_px": [
+        21,
+        54,
+        21,
+        54
+      ],
+      "visible_area_fraction": 0.27789306640625,
+      "sha256": "a774345c3b49024d3f01f8a8c35a9f2cd01651a32a0f753ada79e291acc50fab"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_Gear.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        21,
+        21,
+        235,
+        235
+      ],
+      "edge_padding_px": [
+        21,
+        21,
+        21,
+        21
+      ],
+      "visible_area_fraction": 0.3799285888671875,
+      "sha256": "f7a38aacad35b620eb3de7f654c2740107abb9607bc63ddd2e7e18fdb02fcd1f"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_GlassBead.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        27,
+        20,
+        229,
+        236
+      ],
+      "edge_padding_px": [
+        27,
+        20,
+        27,
+        20
+      ],
+      "visible_area_fraction": 0.522003173828125,
+      "sha256": "7bf932542daeee204389d5b3fd0108d6b77357077594ed1a3d2bc743dfa3cae7"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_Hair.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        33,
+        21,
+        223,
+        235
+      ],
+      "edge_padding_px": [
+        33,
+        21,
+        33,
+        21
+      ],
+      "visible_area_fraction": 0.2462158203125,
+      "sha256": "02009368fb6832e76a69637ea370c8ff6da91cc40495f03fa9981ddb21bb2838"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_MosquitoNeedle.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        57,
+        21,
+        199,
+        235
+      ],
+      "edge_padding_px": [
+        57,
+        21,
+        57,
+        21
+      ],
+      "visible_area_fraction": 0.0918121337890625,
+      "sha256": "fca2ba653fa732c49c755a9fd5e0b4bf871f7f7562f68de9bf0090880e5c8a4b"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_RazorShard.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        59,
+        20,
+        197,
+        235
+      ],
+      "edge_padding_px": [
+        59,
+        20,
+        59,
+        21
+      ],
+      "visible_area_fraction": 0.1629486083984375,
+      "sha256": "97c4b9c6e5294781d77a789896d62cfa2e96e7ea20cc5b468a5df326b397f5be"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_Tape.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        30,
+        21,
+        226,
+        236
+      ],
+      "edge_padding_px": [
+        30,
+        21,
+        30,
+        20
+      ],
+      "visible_area_fraction": 0.366455078125,
+      "sha256": "3f3afc3f9885017507e653817757c9d0a29af295fe8d241028d718a3b6a5731f"
+    },
+    {
+      "path": "PNG/Loot/256/T_UI_Loot_TickChitin.png",
+      "size": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        21,
+        21,
+        235,
+        235
+      ],
+      "edge_padding_px": [
+        21,
+        21,
+        21,
+        21
+      ],
+      "visible_area_fraction": 0.4288330078125,
+      "sha256": "c262b095d4eeee4fd2b482c2e91ef2773b372202b12a159824a6240c76892e05"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_Bandage.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        33,
+        118,
+        95
+      ],
+      "edge_padding_px": [
+        10,
+        33,
+        10,
+        33
+      ],
+      "visible_area_fraction": 0.14849853515625,
+      "sha256": "d95b7af04b6a5e4268eedbe35576f3bd1eb9abdd4624db2ff256b90a0baaecac"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_BearingBall.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "edge_padding_px": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "visible_area_fraction": 0.5460205078125,
+      "sha256": "7e119d2060c86a03e8cf3428b048e1f3138c62138c70bd190635ce26e8066708"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_Capacitor.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        15,
+        118,
+        112
+      ],
+      "edge_padding_px": [
+        10,
+        15,
+        10,
+        16
+      ],
+      "visible_area_fraction": 0.4010009765625,
+      "sha256": "8f0875740d8694266f81984be0668c85f7b9dcb178c1ff39acea6c886456f23f"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_CopperWire.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        27,
+        118,
+        101
+      ],
+      "edge_padding_px": [
+        10,
+        27,
+        10,
+        27
+      ],
+      "visible_area_fraction": 0.27679443359375,
+      "sha256": "efafa54fb7292deb33bd34b2f1b09f3ae2824560311932e961c73ad9620e33ea"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_Gear.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "edge_padding_px": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "visible_area_fraction": 0.38006591796875,
+      "sha256": "7a4d9c76bf3131387234df0dc4168ef6cd40190d850aa05feaafb637b70e0a51"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_GlassBead.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        13,
+        10,
+        115,
+        118
+      ],
+      "edge_padding_px": [
+        13,
+        10,
+        13,
+        10
+      ],
+      "visible_area_fraction": 0.52215576171875,
+      "sha256": "f7913bdfb11c57bbf6623933f12d3d39568c334f4545b070c785dae08a88a370"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_Hair.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        16,
+        10,
+        112,
+        118
+      ],
+      "edge_padding_px": [
+        16,
+        10,
+        16,
+        10
+      ],
+      "visible_area_fraction": 0.2467041015625,
+      "sha256": "82b7a9a98b325b711007176d845febb439e2d56a6dec9cb36f7b6a68f435b458"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_MosquitoNeedle.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        28,
+        10,
+        100,
+        118
+      ],
+      "edge_padding_px": [
+        28,
+        10,
+        28,
+        10
+      ],
+      "visible_area_fraction": 0.091552734375,
+      "sha256": "de516fe34ff40003f94024cd673bd2e69f4ff2147802f0e79c43e7d894fffbd4"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_RazorShard.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        29,
+        10,
+        99,
+        118
+      ],
+      "edge_padding_px": [
+        29,
+        10,
+        29,
+        10
+      ],
+      "visible_area_fraction": 0.16363525390625,
+      "sha256": "7dd4c564ddc92b3ad83a175312fbcf535b797ade85bf76ac4f00ee0fcdfaff62"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_Tape.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        14,
+        10,
+        114,
+        118
+      ],
+      "edge_padding_px": [
+        14,
+        10,
+        14,
+        10
+      ],
+      "visible_area_fraction": 0.36712646484375,
+      "sha256": "7210bfdef3fa0ca6d8b3cdf5ced395f9274f30bf973d68c86fa5eb13e23bd0c7"
+    },
+    {
+      "path": "PNG/Loot/128/T_UI_Loot_TickChitin.png",
+      "size": [
+        128,
+        128
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        10,
+        10,
+        118,
+        118
+      ],
+      "edge_padding_px": [
+        10,
+        10,
+        10,
+        10
+      ],
+      "visible_area_fraction": 0.42889404296875,
+      "sha256": "ab7ad3d9c3359465b578f889da29142d81b112937eebea08acdbc7026081fa53"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_Bandage_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        134,
+        470,
+        378
+      ],
+      "edge_padding_px": [
+        42,
+        134,
+        42,
+        134
+      ],
+      "visible_area_fraction": 0.1489105224609375,
+      "sha256": "da123cc2e234476b9361d04acf7c05cb419e40ce0b9d1a13b2d99557668e556a"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_BearingBall_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        44,
+        42,
+        468,
+        470
+      ],
+      "edge_padding_px": [
+        44,
+        42,
+        44,
+        42
+      ],
+      "visible_area_fraction": 0.5460128784179688,
+      "sha256": "8d3a455a675736d66c40c5e6b5fa95477099f410a069209cd2e9e9303e3422cf"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_Capacitor_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        64,
+        470,
+        448
+      ],
+      "edge_padding_px": [
+        42,
+        64,
+        42,
+        64
+      ],
+      "visible_area_fraction": 0.4024009704589844,
+      "sha256": "e6b660cdc00ff72cf84a543e9fef913721cf5533147ca4a498eeb3ac8648c47c"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_CopperWire_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        110,
+        470,
+        402
+      ],
+      "edge_padding_px": [
+        42,
+        110,
+        42,
+        110
+      ],
+      "visible_area_fraction": 0.2778282165527344,
+      "sha256": "f604459d625b4ee4f16bbca51fe53c202b2d0756739f582a017d94cf29369d60"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_Gear_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        42,
+        470,
+        470
+      ],
+      "edge_padding_px": [
+        42,
+        42,
+        42,
+        42
+      ],
+      "visible_area_fraction": 0.3801307678222656,
+      "sha256": "b0014b07979b9ff3880fd4e9e3f85643c96d234ab1133a5a77c6dc9265e83273"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_GlassBead_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        55,
+        42,
+        457,
+        470
+      ],
+      "edge_padding_px": [
+        55,
+        42,
+        55,
+        42
+      ],
+      "visible_area_fraction": 0.5219917297363281,
+      "sha256": "3a61dd5854d8d34fa51ba19ce28b3827911ca26a3f98199445e1fd3a8a146732"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_Hair_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        66,
+        42,
+        446,
+        470
+      ],
+      "edge_padding_px": [
+        66,
+        42,
+        66,
+        42
+      ],
+      "visible_area_fraction": 0.24644851684570312,
+      "sha256": "505c0f29d08a11f096319101b00be92b833bf0517f252010496bba24cab0cac2"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_MosquitoNeedle_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        115,
+        42,
+        397,
+        470
+      ],
+      "edge_padding_px": [
+        115,
+        42,
+        115,
+        42
+      ],
+      "visible_area_fraction": 0.09183883666992188,
+      "sha256": "d3581962b6ab6e8cf1a99bf5275a61bbb6462d204223a119601d2767f93fa7f7"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_RazorShard_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        119,
+        42,
+        393,
+        470
+      ],
+      "edge_padding_px": [
+        119,
+        42,
+        119,
+        42
+      ],
+      "visible_area_fraction": 0.16300201416015625,
+      "sha256": "557841576b557682192ff985351f5c202903aeeb636f7cfd9eb6bb3618a6e5c0"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_Tape_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        60,
+        42,
+        452,
+        470
+      ],
+      "edge_padding_px": [
+        60,
+        42,
+        60,
+        42
+      ],
+      "visible_area_fraction": 0.36664581298828125,
+      "sha256": "7769777f2fb368fdb770ea0dacba1089b90967aed79e4b0763799215e57684ba"
+    },
+    {
+      "path": "PNG/Loot/Tintable512/T_UI_Loot_TickChitin_Mask.png",
+      "size": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        42,
+        43,
+        470,
+        469
+      ],
+      "edge_padding_px": [
+        42,
+        43,
+        42,
+        43
+      ],
+      "visible_area_fraction": 0.42910003662109375,
+      "sha256": "3b60654a91d8dc8650f899c4ab891f7f522c0b86dd785da2ece3321f99fb2d47"
+    },
+    {
+      "path": "PNG/Dialogue/T_UI_RoachCrafter_Full.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        62,
+        142,
+        961,
+        1393
+      ],
+      "edge_padding_px": [
+        62,
+        142,
+        63,
+        143
+      ],
+      "intentional_bottom_crop": false,
+      "sha256": "2e01533c177afe50d0598c13d972e8caa5952184e104cf371fce6081a5e7b2c0"
+    },
+    {
+      "path": "PNG/Dialogue/T_UI_RoachCrafter_Bust.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "bounds": [
+        70,
+        85,
+        954,
+        1024
+      ],
+      "edge_padding_px": [
+        70,
+        85,
+        70,
+        0
+      ],
+      "intentional_bottom_crop": true,
+      "sha256": "5dd1e98636f91717540d6c2397a2fdf5677c755d6900afe59cfd502086c5a5f8"
+    }
+  ]
+}

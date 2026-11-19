@@ -1,0 +1,247 @@
+{
+  "status": "PASS",
+  "reload_only": true,
+  "texture_count": 24,
+  "checks": [
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Bandage",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_BearingBall",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Capacitor",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_CopperWire",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Gear",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_GlassBead",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Hair",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_MosquitoNeedle",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_RazorShard",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_Tape",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/T_UI_Loot_TickChitin",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Bandage_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_BearingBall_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Capacitor_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_CopperWire_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Gear_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_GlassBead_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Hair_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_MosquitoNeedle_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_RazorShard_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_Tape_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Icons/Loot/Silhouettes/T_UI_Loot_TickChitin_Mask",
+      "width": 512,
+      "height": 512,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Dialogue/T_UI_RoachCrafter_Bust",
+      "width": 1024,
+      "height": 1024,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    },
+    {
+      "asset": "/Game/RiseAboveIt/UI/Dialogue/T_UI_RoachCrafter_Full",
+      "width": 1024,
+      "height": 1536,
+      "group": "UI",
+      "format": "uncompressed RGBA8",
+      "srgb": true,
+      "mipmaps": false,
+      "clamp": true
+    }
+  ]
+}

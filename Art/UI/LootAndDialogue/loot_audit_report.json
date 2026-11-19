@@ -1,0 +1,84 @@
+{
+  "status": "PASS",
+  "item_count": 11,
+  "checks": [
+    {
+      "loot_id": "Bandage",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Bandage",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_Bandage",
+      "source_bounds_error_cm": 1.2516975402832031e-06,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "BearingBall",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_BearingBall",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_BearingBall",
+      "source_bounds_error_cm": 4.172325134277344e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "Capacitor",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Capacitor",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_Capacitor",
+      "source_bounds_error_cm": 1.3113021850585938e-06,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "TickChitin",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Chitin",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_TickChitin",
+      "source_bounds_error_cm": 2.175569534301758e-06,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "CopperWire",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_CopperWire",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_CopperWire",
+      "source_bounds_error_cm": 7.152557373046875e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "Gear",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Gear",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_Gear",
+      "source_bounds_error_cm": 9.08970832824707e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "GlassBead",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_GlassBead",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_GlassBead",
+      "source_bounds_error_cm": 2.384185791015625e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "Hair",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Hair",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_Hair",
+      "source_bounds_error_cm": 5.960464477539062e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "MosquitoNeedle",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Mosquito",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_MosquitoNeedle",
+      "source_bounds_error_cm": 3.5762786865234375e-07,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "RazorShard",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_RazorShard",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_RazorShard",
+      "source_bounds_error_cm": 1.3113021850585938e-06,
+      "direct_mesh_dependency": true
+    },
+    {
+      "loot_id": "Tape",
+      "blueprint": "/Game/FirstPerson/Loot_BPs/BP_Loot_Tape",
+      "mesh": "/Game/RiseAboveIt/Loot/SM_Loot_Tape",
+      "source_bounds_error_cm": 9.5367431640625e-07,
+      "direct_mesh_dependency": true
+    }
+  ],
+  "all_authored_bounds_match_current_assets": true
+}
