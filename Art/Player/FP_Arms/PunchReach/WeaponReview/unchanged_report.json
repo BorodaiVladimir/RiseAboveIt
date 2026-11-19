@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "clips": {
+    "A_FP_Crossbow_Equip": {
+      "frames": 19,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Crossbow_Fire": {
+      "frames": 17,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Crossbow_Idle": {
+      "frames": 61,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Crossbow_Reload": {
+      "frames": 53,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Crossbow_Unequip": {
+      "frames": 17,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Spear_Equip": {
+      "frames": 19,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Spear_Idle": {
+      "frames": 61,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Spear_Swing": {
+      "frames": 25,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Spear_Thrust": {
+      "frames": 21,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    },
+    "A_FP_Spear_Unequip": {
+      "frames": 17,
+      "max_original_vertex_difference_m": 0.0,
+      "weapon_bone_and_hand_poses_unchanged": true
+    }
+  },
+  "source_hashes": {
+    "C:\\Users\\ROG\\Documents\\RiseAboveIt\\FP_Arms\\PunchReach\\FP_Fists_Reach.blend": "d199634566432dd3b033ea2a3c3b88deed5b8a04244d685e6c99df8cad77e705",
+    "C:\\Users\\ROG\\Documents\\RiseAboveIt\\FP_Arms\\PunchReach\\SleeveFix\\FP_Fists_Reach_Sleeves.blend": "0ca0fc4d8ba07637031e89436df0e4ae59d6439fb01d9c9bdf9f12c75c3e9e63"
+  },
+  "frames_checked": 310,
+  "max_original_vertex_difference_m": 0.0
+}

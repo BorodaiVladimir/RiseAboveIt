@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "clips": {
+    "Jab_L": {
+      "frames": 18,
+      "impact": 5,
+      "forward_wrist_travel_cm": 38.07339572982531,
+      "max_joint_length_error_cm": 2.9802322387695312e-06,
+      "root_translation_cm": 0.0,
+      "skeleton": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms_Skeleton.SK_FP_Arms_Skeleton",
+      "playback_flags": {
+        "enable_root_motion": "False",
+        "force_root_lock": "False",
+        "rate_scale": "1.0"
+      }
+    },
+    "Cross_R": {
+      "frames": 22,
+      "impact": 8,
+      "forward_wrist_travel_cm": 45.32725713923574,
+      "max_joint_length_error_cm": 2.980232240545888e-06,
+      "root_translation_cm": 0.0,
+      "skeleton": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms_Skeleton.SK_FP_Arms_Skeleton",
+      "playback_flags": {
+        "enable_root_motion": "False",
+        "force_root_lock": "False",
+        "rate_scale": "1.0"
+      }
+    }
+  },
+  "canonical_skeleton": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms_Skeleton.SK_FP_Arms_Skeleton",
+  "updated_assets": 2
+}

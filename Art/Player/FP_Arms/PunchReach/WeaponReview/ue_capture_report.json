@@ -1,0 +1,183 @@
+{
+  "status": "PASS",
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "captures": [
+    {
+      "weapon": "Spear",
+      "skin": "Earth",
+      "action": "Thrust",
+      "frame": 7,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.9225569049020314e-05,
+      "file": "Spear_Earth_Thrust_7_FOV90.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Earth",
+      "action": "Swing",
+      "frame": 9,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 6.473853271256874e-06,
+      "file": "Spear_Earth_Swing_9_FOV90.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Earth",
+      "action": "Thrust",
+      "frame": 7,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.9225569049020314e-05,
+      "file": "Spear_Earth_Thrust_7_FOV110.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Earth",
+      "action": "Swing",
+      "frame": 9,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 6.473853271256874e-06,
+      "file": "Spear_Earth_Swing_9_FOV110.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Sewer",
+      "action": "Thrust",
+      "frame": 7,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.9225569049020314e-05,
+      "file": "Spear_Sewer_Thrust_7_FOV90.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Sewer",
+      "action": "Swing",
+      "frame": 9,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 6.473853271256874e-06,
+      "file": "Spear_Sewer_Swing_9_FOV90.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Sewer",
+      "action": "Thrust",
+      "frame": 7,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.9225569049020314e-05,
+      "file": "Spear_Sewer_Thrust_7_FOV110.png"
+    },
+    {
+      "weapon": "Spear",
+      "skin": "Sewer",
+      "action": "Swing",
+      "frame": 9,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 6.473853271256874e-06,
+      "file": "Spear_Sewer_Swing_9_FOV110.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Earth",
+      "action": "Reload",
+      "frame": 24,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 3.5886396560243904e-06,
+      "file": "Crossbow_Earth_Reload_24_FOV90.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Earth",
+      "action": "Reload",
+      "frame": 44,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.53326034396614e-05,
+      "file": "Crossbow_Earth_Reload_44_FOV90.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Earth",
+      "action": "Reload",
+      "frame": 24,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 3.5886396560243904e-06,
+      "file": "Crossbow_Earth_Reload_24_FOV110.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Earth",
+      "action": "Reload",
+      "frame": 44,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.53326034396614e-05,
+      "file": "Crossbow_Earth_Reload_44_FOV110.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Sewer",
+      "action": "Reload",
+      "frame": 24,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 3.5886396560243904e-06,
+      "file": "Crossbow_Sewer_Reload_24_FOV90.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Sewer",
+      "action": "Reload",
+      "frame": 44,
+      "fov": 90,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.53326034396614e-05,
+      "file": "Crossbow_Sewer_Reload_44_FOV90.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Sewer",
+      "action": "Reload",
+      "frame": 24,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 3.5886396560243904e-06,
+      "file": "Crossbow_Sewer_Reload_24_FOV110.png"
+    },
+    {
+      "weapon": "Crossbow",
+      "skin": "Sewer",
+      "action": "Reload",
+      "frame": 44,
+      "fov": 110,
+      "level": 3,
+      "socket_error_cm": 0.0,
+      "component_pose_error_cm": 1.53326034396614e-05,
+      "file": "Crossbow_Sewer_Reload_44_FOV110.png"
+    }
+  ],
+  "scope": "temporary editor scene, no gameplay or saved production level"
+}

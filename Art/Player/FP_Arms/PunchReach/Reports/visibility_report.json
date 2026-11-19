@@ -1,0 +1,88 @@
+{
+  "status": "PASS",
+  "clips": {
+    "A_FP_Crossbow_Equip": {
+      "frames": 19,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Crossbow_Fire": {
+      "frames": 17,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Crossbow_Idle": {
+      "frames": 61,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Crossbow_Reload": {
+      "frames": 53,
+      "old_shoulder_rim_in_view_samples": 45,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Crossbow_Unequip": {
+      "frames": 17,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Fists_Cross_R": {
+      "frames": 23,
+      "old_shoulder_rim_in_view_samples": 11,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Fists_Equip": {
+      "frames": 15,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Fists_Idle": {
+      "frames": 61,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Fists_Jab_L": {
+      "frames": 19,
+      "old_shoulder_rim_in_view_samples": 8,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Fists_Unequip": {
+      "frames": 13,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Spear_Equip": {
+      "frames": 19,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Spear_Idle": {
+      "frames": 61,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Spear_Swing": {
+      "frames": 25,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Spear_Thrust": {
+      "frames": 21,
+      "old_shoulder_rim_in_view_samples": 7,
+      "new_cap_in_view": 0
+    },
+    "A_FP_Spear_Unequip": {
+      "frames": 17,
+      "old_shoulder_rim_in_view_samples": 0,
+      "new_cap_in_view": 0
+    }
+  },
+  "fovs_deg": [
+    90,
+    110
+  ],
+  "frames_checked": 441,
+  "old_visible_samples": 71,
+  "closest_far_cap_depth_m": -0.4981961064040661,
+  "far_cap_always_behind_camera": true
+}

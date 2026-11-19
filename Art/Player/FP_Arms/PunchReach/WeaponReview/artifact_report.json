@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "ue_captures": 16,
+  "blender_keyframes": 64,
+  "published_assets_unchanged": 125,
+  "max_component_pose_error_cm": 1.9225569049020314e-05
+}

@@ -1,0 +1,5 @@
+[0:v]drawbox=x=0:y=0:w=iw:h=32:color=black@0.7:t=fill,drawtext=fontfile='C\:/Windows/Fonts/arial.ttf':text='BEFORE - SHOULDER CUT':x=12:y=8:fontsize=18:fontcolor=white[a];
+[1:v]drawbox=x=0:y=0:w=iw:h=32:color=black@0.7:t=fill,drawtext=fontfile='C\:/Windows/Fonts/arial.ttf':text='AFTER - EXTENDED SLEEVES':x=12:y=8:fontsize=18:fontcolor=white[b];
+[a][b]hstack,split=2[normal][slow];
+[normal]setpts=PTS-STARTPTS[n];[slow]setpts=2*(PTS-STARTPTS)[s];
+[n][s]concat=n=2:v=1:a=0,drawtext=fontfile='C\:/Windows/Fonts/arial.ttf':text='0.5x SPEED':x=12:y=340:fontsize=20:fontcolor=white:enable='gte(t,2.733333)'[out]

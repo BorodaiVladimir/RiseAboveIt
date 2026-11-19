@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "mesh": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms.SK_FP_Arms",
+  "skeleton": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms_Skeleton.SK_FP_Arms_Skeleton",
+  "rear_bound_cm": -71.17347717285156,
+  "materials": [
+    "/Game/RiseAboveIt/Materials/M_Palette.M_Palette"
+  ],
+  "physics_asset": "/Game/RiseAboveIt/Player/FP_Arms/SK_FP_Arms_PhysicsAsset.SK_FP_Arms_PhysicsAsset"
+}
