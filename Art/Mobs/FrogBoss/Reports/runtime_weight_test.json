@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "weights": [
+    {
+      "weight": 0,
+      "bone_length_error_cm": 0,
+      "pose_position_delta_cm": 0
+    },
+    {
+      "weight": 0.5,
+      "bone_length_error_cm": 4.9672404429657036e-06,
+      "pose_position_delta_cm": 460.2341789392416
+    },
+    {
+      "weight": 1,
+      "bone_length_error_cm": 4.967240386122285e-06,
+      "pose_position_delta_cm": 912.9582138688215
+    }
+  ],
+  "external_root_preserved": true
+}

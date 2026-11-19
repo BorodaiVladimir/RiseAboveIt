@@ -1,0 +1,268 @@
+{
+  "status": "PASS",
+  "ue_fresh_reload": "PASS",
+  "original_package_files_verified": true,
+  "shared_materials_not_replaced": true,
+  "files": [
+    {
+      "path": "Art/Mobs/FrogBoss/attack_timings.json",
+      "sha256": "dad6d614ccb90ecf7a88b40ac473c4a34083fe04ba2cf3142c0080914f8e4769",
+      "bytes": 1787
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/anim_attacks.py",
+      "sha256": "afefdd8738e36d54b0c101905306c25d98e8c4377a9d8a9d25d00227db9a0a7e",
+      "bytes": 6534
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/anim_frog.py",
+      "sha256": "392233383dcf767b915a35cd0d6e604e6ca4292193533773bb33b45c878d9d94",
+      "bytes": 5880
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/bake_jump_target.py",
+      "sha256": "080bade555259a3d2b8ba0da0c5e917e10dfd6b66510b414a11cde53e9ac4dda",
+      "bytes": 1215
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/build_frog.py",
+      "sha256": "1cc7f877213fbd8c99778e497ba1b7a6e838ee6fabe4c467c048156c31b51888",
+      "bytes": 16835
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/joints.py",
+      "sha256": "9056ede66af7e85106666d39a9a3ca94aab173009c98c8d79ed37fe604af480a",
+      "bytes": 288
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/procedural_jump.py",
+      "sha256": "df57f02ce859ad6ba3333ddfa63fe789d48ced4ead200c5afcccdb5ec4cb8f32",
+      "bytes": 3979
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/render_frog.py",
+      "sha256": "ffec5262814d38e7621b15a64d73340a5db1c73c7f149ea0cf97cca5406e88b1",
+      "bytes": 4304
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/verify_attacks.py",
+      "sha256": "f6f83d278196850b6530f3624235f3fd443b9c72b2e622440038fbfdf45ef3f6",
+      "bytes": 2301
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/verify_fbx.py",
+      "sha256": "f8087445764b91b185527b18c961bc7392c137cfd8691835543c12da2bcb141e",
+      "bytes": 801
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/verify_frog.py",
+      "sha256": "72cb8016b9a44386602f2ec9cc0010d1fc1cdc83fdaac55e8da9179f4d3d6cd8",
+      "bytes": 2105
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/FrogBoss/verify_procedural_jump.py",
+      "sha256": "278d71cfef1bdceff9842e236021f613fc8603f309c60ba489e69889e2d614f2",
+      "bytes": 1751
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/Shared/lowpoly.py",
+      "sha256": "8b10fc6bbd6fff9284db868e72043438760120f144efc1f6f8390e07dd4e3153",
+      "bytes": 21814
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/Shared/rigkit.py",
+      "sha256": "4b6665bc86ee0b042a9578d1d70090131e5c4854abc80ecdf07626e2b2d2c04b",
+      "bytes": 4628
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Authoring/Shared/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Blender/FrogBoss.blend",
+      "sha256": "461bae6547897ff9966d1cf88b4c978e2795b87ffff5021d1c5321b762c4aecf",
+      "bytes": 1447931
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/A_FrogBoss_Attack_Tongue.fbx",
+      "sha256": "ee6db4c26c6c2f9f253a083407f5f13e6f08c0e76686be0057e43e156f0e6453",
+      "bytes": 417708
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/A_FrogBoss_Death.fbx",
+      "sha256": "466a92990551544979f7b19493c778ca8ef60904759dd37f22f885980a4df01e",
+      "bytes": 338252
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/A_FrogBoss_Idle.fbx",
+      "sha256": "7bf09e76ed63391659720fcb329a108ef74ebb852c34b3e7fbbe21d6a219a264",
+      "bytes": 447116
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/JumpExamples/A_FrogBoss_Attack_JumpSlam.fbx",
+      "sha256": "74540c0fd0826fcee762d7f957b70ca5171a888ad6676f79f663f3cd59a8896e",
+      "bytes": 459740
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/JumpExamples/A_FrogBoss_Jump_Forward_Demo.fbx",
+      "sha256": "dbde7d39b14626f66a033324794bd2f3da067e422ca5af65c39217c892f59889",
+      "bytes": 460572
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/JumpExamples/A_FrogBoss_Jump_Side_Demo.fbx",
+      "sha256": "c13f81027e5420f67b7903c3a69a98d64ab4ef8d4de228069792a848bfb63813",
+      "bytes": 461324
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/FBX/SK_FrogBoss.fbx",
+      "sha256": "f6c8ab0def7ad0441728bfaa6a08c7176e3b77f0fd91acc760c84ed1e25479f0",
+      "bytes": 281020
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Attack_Tongue_Player_v1.mp4",
+      "sha256": "c01926f9574ab73994af49bbb41b91cc5bae9c5086a502f14cea18ac8c17908f",
+      "bytes": 161955
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Death_v3.mp4",
+      "sha256": "e4926fc164026d20cf2860cc3b02e8246d0acb65e3e7529a3fa2094b98198e82",
+      "bytes": 143733
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Idle_v2.mp4",
+      "sha256": "ed6e1db62cc6a57f5931562946cf7adb0c7c7dc2b1ab412e825b9f67aadf2c31",
+      "bytes": 164403
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Jump_Procedural_Forward.mp4",
+      "sha256": "124d9adcd2a0d8938d4c716c0ad5c01f3f97a9b812f0aa47c84fc98f88e9620b",
+      "bytes": 382545
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Jump_Procedural_Side.mp4",
+      "sha256": "f2c485f15c7bc08b1a1a558848b508d7f8c7dbbdc0c2c7151c43ff535ee1d252",
+      "bytes": 353716
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Jump_Procedural_ThreeTargets.mp4",
+      "sha256": "0cd990924fb8ae9ca97dd01b1d5fa443c6f0d385ba0fa44d467183d5367d9211",
+      "bytes": 1035398
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Preview/FrogBoss_Jump_Procedural_Up.mp4",
+      "sha256": "c5ce7de297202843c531273a4aa90c49b7e4e0e2f61541a8d9c59093d7c6d9be",
+      "bytes": 323842
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/README.md",
+      "sha256": "fbc57705e43f41d5acc4a37a364fd004763df2cb195415224203e6bc6c967a8e",
+      "bytes": 3228
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Reports/dependencies.json",
+      "sha256": "abc6311e5c8da140a5d8d0d496a91f082c3676e3d51ab37ff11708bba3c989ff",
+      "bytes": 392
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Reports/portable_reload_test.json",
+      "sha256": "5f1329fc01eeb6e39b3fadfb361a03ecf2cc836f3854ebcf4cad5cee11bea2f3",
+      "bytes": 258
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Reports/runtime_mesh_test.json",
+      "sha256": "12a4ceed862c4aa711ea5f51ce08da826e7bb4803feedac2ebb07761c155932c",
+      "bytes": 127658
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Reports/runtime_weight_test.json",
+      "sha256": "c73ea37f1a914c926a879e31905c12dbd417df1b8de068e1bc881646525bc251",
+      "bytes": 468
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Reports/ue_publication_check.json",
+      "sha256": "0b19fd3fcaed8909a329727cc4a8fec50c8364cb0f7f07fb82683b0f650358c2",
+      "bytes": 665
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/build_actor.py",
+      "sha256": "780df7cee74ea493d6f5611fc2ab3a73951b6abcac13af829a6768764f1e40a9",
+      "bytes": 2602
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/build_runtime_rig.py",
+      "sha256": "e2367b5ebd0b718cd8a07d2421cf87110dbb6575fc2e848d2d7cc14f498afce7",
+      "bytes": 6423
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/README_RU.md",
+      "sha256": "362171e183a932f76042ecec499de53e52d23024e86d42acbd101f839b4d593b",
+      "bytes": 6790
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/verify_pie_mesh.py",
+      "sha256": "15e82f6c8e056d902f1e2efca42f2436af20448050d287db38ae8bff4a3d2029",
+      "bytes": 3054
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/verify_portable.py",
+      "sha256": "80a828d16d00fd7afcff99024fde2b52bbe9b524428121220ef83bcb39000e09",
+      "bytes": 2146
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Runtime/verify_weights.py",
+      "sha256": "81e2efd76e668027538f621aaba1ba278d81e874d7a528d6ec81548cc31c15c2",
+      "bytes": 2531
+    },
+    {
+      "path": "Art/Mobs/FrogBoss/Textures/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/A_FrogBoss_Attack_Tongue.uasset",
+      "sha256": "9bcb1f454ce523ec9e78d84316fee24f5e3f500b5e23ba6af73094819b899cec",
+      "bytes": 205498
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/A_FrogBoss_Death.uasset",
+      "sha256": "308b310465cfc62d8bafc92dbd0de83f86f4ccd727ecc5a325e10707bfd0f342",
+      "bytes": 133146
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/A_FrogBoss_Idle.uasset",
+      "sha256": "9474f40b2ba3ce7e81ab5f173c9c4212dd55a4c59dd181bd55fc818f9f9654f8",
+      "bytes": 140117
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/BP_FrogBoss_ProceduralJump.uasset",
+      "sha256": "4b3fc2543d49afb560667d4c2c8f9d1bc4b044774b4d13e286662c15f25fcd9b",
+      "bytes": 58959
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/CR_FrogBoss_ProceduralJump.uasset",
+      "sha256": "ea8382f4ecde33f2d0ec62c77bd2120cc1f06ebb6ee6a8149d780512fc0d2aaf",
+      "bytes": 428078
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/Maps/L_FrogJump_RuntimeTest.umap",
+      "sha256": "055a3fb5b108733973b726cc53fa893ffeda19178b17d6ebdef6914e0ec9a9e0",
+      "bytes": 12267
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/SK_FrogBoss.uasset",
+      "sha256": "22a16e8285b762a4db3f962777d8f565eb5696ea1697eb8ed0aeedb23d513bd3",
+      "bytes": 3820636
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/SK_FrogBoss_PhysicsAsset.uasset",
+      "sha256": "59f49aa6cf1a0ad6b0a84d8c865bfe1f4ae79f88702b10cd33cd6f2b034e5d4f",
+      "bytes": 3203
+    },
+    {
+      "path": "Content/RiseAboveIt/Mobs/FrogBoss/SK_FrogBoss_Skeleton.uasset",
+      "sha256": "d1a68434f2c489c6261fe05195a35e3819af6017b8dab6bbeb4a1bc7f0e518bf",
+      "bytes": 8714
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "meshes": {
+    "SM_Safe_WorkSurface": {
+      "collision_hulls": 1,
+      "vertices": 596
+    },
+    "SM_Safe_ToolRack": {
+      "collision_hulls": 1,
+      "vertices": 3108
+    },
+    "SM_Safe_PartsShelf": {
+      "collision_hulls": 1,
+      "vertices": 5520
+    }
+  }
+}

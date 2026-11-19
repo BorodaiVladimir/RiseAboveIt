@@ -1,0 +1,7 @@
+Label,Kind,Asset,X,Y,Z,Yaw,Note
+SafeZone_WorkSurface,StaticMesh,SM_Safe_WorkSurface,-774.7,2609.9,43.6,22.0,"Подкладка для сборки, верх 108 см над полом"
+SafeZone_ToolRack,StaticMesh,SM_Safe_ToolRack,-896.45,2911.23,148.6,202.0,Инструменты на задней стенке
+SafeZone_PartsShelf,StaticMesh,SM_Safe_PartsShelf,-1072.85,2640.43,43.6,22.0,Материалы для крафта; декоративные ёмкости
+SafeZone_Crafter,TargetPoint,,-849.62,2795.34,43.6,-68.0,Точка NPC: Actor yaw; меш +Y повернуть на -90 градусов
+SafeZone_Assembly,TargetPoint,,-808.41,2693.35,151.6,22.0,Поверхность сборки; игровую анимацию запускает Blueprint
+SafeZone_PlayerApproach,TargetPoint,,-690.41,2401.28,43.6,112.0,"Подход к мастеру, свободная площадка для игрока"

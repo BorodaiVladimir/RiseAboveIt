@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "loaded_new_native_assets": 12,
+  "all_game_dependencies_present": true,
+  "shared_materials_from_current_main": true,
+  "frog_three_clips_same_skeleton": true,
+  "rig_reloaded": true,
+  "weights_checked": [
+    0,
+    0.5,
+    1
+  ],
+  "workshop": {
+    "SM_Safe_WorkSurface": {
+      "collision_hulls": 1,
+      "vertices": 596
+    },
+    "SM_Safe_ToolRack": {
+      "collision_hulls": 1,
+      "vertices": 3108
+    },
+    "SM_Safe_PartsShelf": {
+      "collision_hulls": 1,
+      "vertices": 5520
+    }
+  },
+  "placement_repeatable": true,
+  "assembly_height_cm": 138.0,
+  "production_level_modified": false
+}

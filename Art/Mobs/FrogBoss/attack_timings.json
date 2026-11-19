@@ -1,0 +1,112 @@
+{
+  "fps": 30,
+  "attacks": {
+    "Attack_Tongue": {
+      "frames": 90,
+      "markers": [
+        [
+          "Telegraph_Start",
+          0
+        ],
+        [
+          "Aim_Lock",
+          24
+        ],
+        [
+          "Damage_Start",
+          29
+        ],
+        [
+          "Damage_End",
+          33
+        ],
+        [
+          "Tongue_Retracted",
+          48
+        ],
+        [
+          "Recovery_End",
+          90
+        ]
+      ]
+    },
+    "Attack_JumpSlam": {
+      "frames": 108,
+      "markers": [
+        [
+          "Telegraph_Start",
+          0
+        ],
+        [
+          "Takeoff",
+          27
+        ],
+        [
+          "Apex",
+          44
+        ],
+        [
+          "Impact",
+          62
+        ],
+        [
+          "Recovery_End",
+          108
+        ]
+      ]
+    },
+    "Jump_Forward_Demo": {
+      "frames": 108,
+      "markers": [
+        [
+          "Telegraph_Start",
+          0
+        ],
+        [
+          "Takeoff",
+          27
+        ],
+        [
+          "Apex",
+          44
+        ],
+        [
+          "Impact",
+          62
+        ],
+        [
+          "Recovery_End",
+          108
+        ]
+      ]
+    },
+    "Jump_Side_Demo": {
+      "frames": 108,
+      "markers": [
+        [
+          "Telegraph_Start",
+          0
+        ],
+        [
+          "Takeoff",
+          27
+        ],
+        [
+          "Apex",
+          44
+        ],
+        [
+          "Impact",
+          62
+        ],
+        [
+          "Recovery_End",
+          108
+        ]
+      ]
+    }
+  },
+  "tongue_tip_max_y_m": -16.25,
+  "jump_height_m": 8.068411568403244,
+  "jump_contains_vertical_root_motion": true
+}

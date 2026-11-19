@@ -1,0 +1,178 @@
+{
+  "status": "PASS",
+  "ue_fresh_reload": "PASS",
+  "original_package_files_verified": true,
+  "shared_materials_not_replaced": true,
+  "files": [
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/build_workshop.py",
+      "sha256": "7cf70b0457c3041b256d1a9c3b84a10f2f00208fb28a9e096c79ed47bb33bea8",
+      "bytes": 4984
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/finalize_scene.py",
+      "sha256": "cbbcba1054680e59783c127bbad2f297e577a0dc47b169c6552d345802a1e324",
+      "bytes": 407
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/preview_workshop.py",
+      "sha256": "41fe17af33d59e1849069490730fa2ad3182545d3c95e76baad66a4df009d69d",
+      "bytes": 4750
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/verify_context.py",
+      "sha256": "8dc983df7642609d8135d3639b5fdce9c262e4fb0f373e77577f734745944ddb",
+      "bytes": 1129
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/verify_layout.py",
+      "sha256": "aaf6e33277e09de67c648a3b1f0cb697d564bd40f847b76b1c6056c0f66a3b2e",
+      "bytes": 919
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/verify_workshop.py",
+      "sha256": "6925cea8dfc63a79f104e3bf530d2682355b2514a452cca92bc3b66937c90823",
+      "bytes": 832
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Arena_Earth/SafeZone/workshop_layout.py",
+      "sha256": "f0636ebcf15b5348cb8d9176a15ae5b206cb43efc2fc7fe262168264c09c192e",
+      "bytes": 1810
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Shared/lowpoly.py",
+      "sha256": "8b10fc6bbd6fff9284db868e72043438760120f144efc1f6f8390e07dd4e3153",
+      "bytes": 21814
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Shared/rigkit.py",
+      "sha256": "4b6665bc86ee0b042a9578d1d70090131e5c4854abc80ecdf07626e2b2d2c04b",
+      "bytes": 4628
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Shared/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Authoring/Weapons/weapon_kit.py",
+      "sha256": "8a7bfbf74446f10186afb7c17cb7208df173c811ebb987c9f01231b7dc688b3b",
+      "bytes": 10000
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Blender/SafeZone_Workshop.blend",
+      "sha256": "f968c4515d5aa2d01066ff662835a1acd4c7a4ec116c249221047e0f730f5ada",
+      "bytes": 459597
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Blender/Workshop_Props.blend",
+      "sha256": "a9ffa68ed0b0772ea8aa9c56d259c9ef73d61b5c274ba480303254899c38e7e5",
+      "bytes": 180310
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_PartsShelf.fbm/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_PartsShelf.fbx",
+      "sha256": "ace279451a7b255a556057b1ad15f17472eeeff075662d9004c349e24c5b76eb",
+      "bytes": 95260
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_ToolRack.fbm/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_ToolRack.fbx",
+      "sha256": "72b3e0fd90a7570cdecf327d3c0ca246b828b0d48119b26879ded6b5fc8f1598",
+      "bytes": 77468
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_WorkSurface.fbm/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/FBX/SM_Safe_WorkSurface.fbx",
+      "sha256": "41c190c56ef96043cfb6f599ba75fb1f72ac5d2f1062a2051ddae3a1894e9285",
+      "bytes": 39996
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/place_workshop.py",
+      "sha256": "a12ddd1469d390794bb3a6461422de8d004c5245dc710fd4a56245ecf674facf",
+      "bytes": 2149
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Preview/01_player.png",
+      "sha256": "35214adda9e31be0f9668d04c156462291d5f7df09591495c7e2bff1a3283090",
+      "bytes": 1467970
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Preview/02_workbench.png",
+      "sha256": "221392fbc4f06ad6eba2c7f2194f8065f9ce3deea5836cfba179a83673584d25",
+      "bytes": 1564986
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Preview/03_entry.png",
+      "sha256": "7da78952745ecfe15b11ec52f4288f79d946bb86d710806dec5a7e21a0893a2d",
+      "bytes": 1414863
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/README.md",
+      "sha256": "bc9debcddfd88299df5be62a3e02b1f75eec168e8857f0904d1e2d1b35bf87af",
+      "bytes": 3138
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Reports/placement-result.json",
+      "sha256": "4b8a40a515bdbbcc9ad3955a12b4434434bdae30497ee8a568f4c200d042b908",
+      "bytes": 79
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Reports/result.json",
+      "sha256": "a9509896cfa19b9ea531c971f9d1f63dad2bbf5bc61518b070dab6cf6eee4a82",
+      "bytes": 312
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Reports/ue_publication_check.json",
+      "sha256": "0b19fd3fcaed8909a329727cc4a8fec50c8364cb0f7f07fb82683b0f650358c2",
+      "bytes": 665
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Textures/T_Palette.png",
+      "sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1",
+      "bytes": 12314
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Textures/T_Palette_Toon.png",
+      "sha256": "12ed72bcb6ad45bd51ad066f17cb4a2d21ee2a6905b7fd98289f02a98f5d6c95",
+      "bytes": 7030
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Workshop_Layout.json",
+      "sha256": "9e33d4b727a52da5e93e44b0c7991fa78382a1113d4bd753643b7be9cee0788b",
+      "bytes": 1638
+    },
+    {
+      "path": "Art/Environment/SafeWorkshop/Workshop_Placement.csv",
+      "sha256": "59db2a7d9ae2152df5713b14d5516958ffe8cdbd58ec6c9fc7331e7c58d731cb",
+      "bytes": 927
+    },
+    {
+      "path": "Content/RiseAboveIt/Arena_Earth/SM_Safe_PartsShelf.uasset",
+      "sha256": "c413b9bf44bc875ee3dfa2a46a963608d71a95ad1163bddd5dcedc3bb953d1b2",
+      "bytes": 102021
+    },
+    {
+      "path": "Content/RiseAboveIt/Arena_Earth/SM_Safe_ToolRack.uasset",
+      "sha256": "d3bab58ee162f38cd69ef78633f482813af5cad0115a87dc5ca2edcdc20418ef",
+      "bytes": 73703
+    },
+    {
+      "path": "Content/RiseAboveIt/Arena_Earth/SM_Safe_WorkSurface.uasset",
+      "sha256": "0f5a5cb14ae78342141f1b42c0961600d8556e6f565f67c2c16d9d1662463a2e",
+      "bytes": 23549
+    }
+  ]
+}

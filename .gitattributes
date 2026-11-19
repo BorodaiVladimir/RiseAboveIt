@@ -36,3 +36,10 @@ Art/Mobs/Lizard/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Art/Player/FP_Arms/PunchReach/**/*.fbx filter=lfs diff=lfs merge=lfs -text
 Art/Player/FP_Arms/PunchReach/**/*.blend filter=lfs diff=lfs merge=lfs -text
 Art/Player/FP_Arms/PunchReach/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Approved FrogBoss and safe-zone workshop source assets
+Art/Mobs/FrogBoss/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/FrogBoss/**/*.blend filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/FrogBoss/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Art/Environment/SafeWorkshop/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Environment/SafeWorkshop/**/*.blend filter=lfs diff=lfs merge=lfs -text

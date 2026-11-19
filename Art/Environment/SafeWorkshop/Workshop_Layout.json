@@ -1,0 +1,74 @@
+[
+  {
+    "label": "SafeZone_WorkSurface",
+    "kind": "StaticMesh",
+    "asset": "SM_Safe_WorkSurface",
+    "position": [
+      0,
+      0,
+      0
+    ],
+    "yaw": 0,
+    "note": "Подкладка для сборки, верх 108 см над полом"
+  },
+  {
+    "label": "SafeZone_ToolRack",
+    "kind": "StaticMesh",
+    "asset": "SM_Safe_ToolRack",
+    "position": [
+      0,
+      -3.25,
+      1.05
+    ],
+    "yaw": 180,
+    "note": "Инструменты на задней стенке"
+  },
+  {
+    "label": "SafeZone_PartsShelf",
+    "kind": "StaticMesh",
+    "asset": "SM_Safe_PartsShelf",
+    "position": [
+      -2.65,
+      -1.4,
+      0
+    ],
+    "yaw": 0,
+    "note": "Материалы для крафта; декоративные ёмкости"
+  },
+  {
+    "label": "SafeZone_Crafter",
+    "kind": "TargetPoint",
+    "asset": "",
+    "position": [
+      0,
+      -2,
+      0
+    ],
+    "yaw": -90,
+    "note": "Точка NPC: Actor yaw; меш +Y повернуть на -90 градусов"
+  },
+  {
+    "label": "SafeZone_Assembly",
+    "kind": "TargetPoint",
+    "asset": "",
+    "position": [
+      0,
+      -0.9,
+      1.08
+    ],
+    "yaw": 0,
+    "note": "Поверхность сборки; игровую анимацию запускает Blueprint"
+  },
+  {
+    "label": "SafeZone_PlayerApproach",
+    "kind": "TargetPoint",
+    "asset": "",
+    "position": [
+      0,
+      2.25,
+      0
+    ],
+    "yaw": 90,
+    "note": "Подход к мастеру, свободная площадка для игрока"
+  }
+]
