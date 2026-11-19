@@ -26,3 +26,8 @@ Art/Mobs/Toad/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Snake/FBX/*.fbx filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Snake/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/Snake/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Approved lizard source assets
+Art/Mobs/Lizard/FBX/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Lizard/Blender/*.blend filter=lfs diff=lfs merge=lfs -text
+Art/Mobs/Lizard/Preview/*.mp4 filter=lfs diff=lfs merge=lfs -text

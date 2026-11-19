@@ -1,0 +1,172 @@
+{
+  "status": "PASS",
+  "clips": {
+    "Idle": {
+      "min_skin_z_m": 0.05499937757849693,
+      "joint_gap_m": 0.0,
+      "length_error_m": 3.85213615150537e-06,
+      "planted_foot_drift_m": 0.0,
+      "max_tail_bend_deg": 8.654420852975498,
+      "max_frame_rotation_deg": 0.11190582380822714,
+      "settled_motion": 0.0
+    },
+    "Move": {
+      "min_skin_z_m": 0.054999250918626785,
+      "joint_gap_m": 0.0,
+      "length_error_m": 5.023505531331907e-06,
+      "planted_foot_drift_m": 1.7891324782137435e-06,
+      "max_tail_bend_deg": 8.643633422955109,
+      "max_frame_rotation_deg": 8.246151305081975,
+      "settled_motion": 0.0
+    },
+    "Attack_Bite": {
+      "min_skin_z_m": 0.05499954894185066,
+      "joint_gap_m": 0.0,
+      "length_error_m": 4.425022007037427e-06,
+      "planted_foot_drift_m": 0.0,
+      "max_tail_bend_deg": 8.629669954970664,
+      "max_frame_rotation_deg": 6.951399228224106,
+      "settled_motion": 0.0
+    },
+    "Hit": {
+      "min_skin_z_m": 0.054999496787786484,
+      "joint_gap_m": 0.0,
+      "length_error_m": 3.818620423756691e-06,
+      "planted_foot_drift_m": 0.0,
+      "max_tail_bend_deg": 8.629669954970664,
+      "max_frame_rotation_deg": 3.8107289542411196,
+      "settled_motion": 0.0
+    },
+    "Death": {
+      "min_skin_z_m": 0.054999593645334244,
+      "joint_gap_m": 0.0,
+      "length_error_m": 3.879693526220862e-06,
+      "planted_foot_drift_m": 0.0,
+      "max_tail_bend_deg": 8.629669954970664,
+      "max_frame_rotation_deg": 1.5641937226032172,
+      "settled_motion": 0.0
+    }
+  },
+  "connected_pairs": [
+    [
+      "pelvis",
+      "chest",
+      1.403566837310791
+    ],
+    [
+      "chest",
+      "neck",
+      1.350000023841858
+    ],
+    [
+      "neck",
+      "head",
+      0.9124143719673157
+    ],
+    [
+      "front_l_upper",
+      "front_l_lower",
+      1.0161192417144775
+    ],
+    [
+      "front_l_lower",
+      "front_l_foot",
+      0.8994428515434265
+    ],
+    [
+      "front_r_upper",
+      "front_r_lower",
+      1.016119122505188
+    ],
+    [
+      "front_r_lower",
+      "front_r_foot",
+      0.8994426727294922
+    ],
+    [
+      "tail_01",
+      "tail_02",
+      0.4844799339771271
+    ],
+    [
+      "tail_02",
+      "tail_03",
+      0.4629513919353485
+    ],
+    [
+      "tail_03",
+      "tail_04",
+      0.4592576324939728
+    ],
+    [
+      "tail_04",
+      "tail_05",
+      0.45713552832603455
+    ],
+    [
+      "tail_05",
+      "tail_06",
+      0.4556233882904053
+    ],
+    [
+      "tail_06",
+      "tail_07",
+      0.4545219838619232
+    ],
+    [
+      "tail_07",
+      "tail_08",
+      0.4537978172302246
+    ],
+    [
+      "tail_08",
+      "tail_09",
+      0.45344001054763794
+    ],
+    [
+      "tail_09",
+      "tail_10",
+      0.45341286063194275
+    ],
+    [
+      "tail_10",
+      "tail_11",
+      0.4536457657814026
+    ],
+    [
+      "tail_11",
+      "tail_12",
+      0.4540308117866516
+    ],
+    [
+      "tail_12",
+      "tail_13",
+      0.45444515347480774
+    ],
+    [
+      "tail_13",
+      "tail_14",
+      0.454767644405365
+    ],
+    [
+      "hind_l_upper",
+      "hind_l_lower",
+      1.0828195810317993
+    ],
+    [
+      "hind_l_lower",
+      "hind_l_foot",
+      0.6252177953720093
+    ],
+    [
+      "hind_r_upper",
+      "hind_r_lower",
+      1.0828195810317993
+    ],
+    [
+      "hind_r_lower",
+      "hind_r_foot",
+      0.6252177953720093
+    ]
+  ]
+}

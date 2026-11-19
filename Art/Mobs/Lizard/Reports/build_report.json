@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "bones": 34,
+  "bone_names": [
+    "root",
+    "pelvis",
+    "chest",
+    "neck",
+    "head",
+    "jaw",
+    "eye_l",
+    "eye_r",
+    "front_l_upper",
+    "front_l_lower",
+    "front_l_foot",
+    "front_r_upper",
+    "front_r_lower",
+    "front_r_foot",
+    "tail_01",
+    "tail_02",
+    "tail_03",
+    "tail_04",
+    "tail_05",
+    "tail_06",
+    "tail_07",
+    "tail_08",
+    "tail_09",
+    "tail_10",
+    "tail_11",
+    "tail_12",
+    "tail_13",
+    "tail_14",
+    "hind_l_upper",
+    "hind_l_lower",
+    "hind_l_foot",
+    "hind_r_upper",
+    "hind_r_lower",
+    "hind_r_foot"
+  ],
+  "triangles": 6524,
+  "vertices": 3516,
+  "clips": {
+    "Idle": {
+      "frames": 120,
+      "seconds": 4.0,
+      "loop": true
+    },
+    "Move": {
+      "frames": 72,
+      "seconds": 2.4,
+      "loop": true
+    },
+    "Attack_Bite": {
+      "frames": 72,
+      "seconds": 2.4,
+      "loop": false
+    },
+    "Hit": {
+      "frames": 36,
+      "seconds": 1.2,
+      "loop": false
+    },
+    "Death": {
+      "frames": 96,
+      "seconds": 3.2,
+      "loop": false
+    }
+  },
+  "root_motion": false,
+  "reference_speed_m_s": 0.3888888888888889,
+  "stance_fraction": 0.75,
+  "shared_palette_sha256": "3b274571c0b50efe38461d122d1b287da44bc558fb1b241a8569f29a2b5d9ac1"
+}

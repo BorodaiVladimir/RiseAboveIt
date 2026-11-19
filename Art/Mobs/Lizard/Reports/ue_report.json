@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "mesh": "/Game/RiseAboveIt/Mobs/Lizard/SK_Lizard.SK_Lizard",
+  "skeleton": "/Game/RiseAboveIt/Mobs/Lizard/SK_Lizard_Skeleton.SK_Lizard_Skeleton",
+  "clips": {
+    "Idle": 4.0,
+    "Move": 2.4000000953674316,
+    "Attack_Bite": 2.4000000953674316,
+    "Hit": 1.2000000476837158,
+    "Death": 3.200000047683716
+  },
+  "pose_checks": {
+    "Idle": {
+      "joint_length_error_cm": 0.0003920333435729617,
+      "root_translation_cm": 0.0,
+      "eye_attachment_error_cm": 4.263256414560601e-14,
+      "planted_foot_drift_cm": 0.0,
+      "head_motion_cm": 1.8001119016453206
+    },
+    "Move": {
+      "joint_length_error_cm": 0.00040148427035546774,
+      "root_translation_cm": 0.0,
+      "eye_attachment_error_cm": 9.947598300641403e-14,
+      "planted_foot_drift_cm": 0.0004643883525574622,
+      "head_motion_cm": 6.293702233768154
+    },
+    "Attack_Bite": {
+      "joint_length_error_cm": 0.0003920333435729617,
+      "root_translation_cm": 0.0,
+      "eye_attachment_error_cm": 6.138893468232709e-06,
+      "planted_foot_drift_cm": 0.0,
+      "head_motion_cm": 61.910952077077546
+    },
+    "Hit": {
+      "joint_length_error_cm": 0.00039203334355164543,
+      "root_translation_cm": 0.0,
+      "eye_attachment_error_cm": 6.138893425600145e-06,
+      "planted_foot_drift_cm": 0.0,
+      "head_motion_cm": 24.564916519414783
+    },
+    "Death": {
+      "joint_length_error_cm": 0.0003920333435658563,
+      "root_translation_cm": 0.0,
+      "eye_attachment_error_cm": 6.1388934398109996e-06,
+      "planted_foot_drift_cm": 0.0,
+      "head_motion_cm": 40.0001183610052
+    }
+  },
+  "material": "/Game/RiseAboveIt/Mobs/Lizard/M_Lizard.M_Lizard"
+}
