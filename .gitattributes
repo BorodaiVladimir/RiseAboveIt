@@ -43,3 +43,7 @@ Art/Mobs/FrogBoss/**/*.blend filter=lfs diff=lfs merge=lfs -text
 Art/Mobs/FrogBoss/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
 Art/Environment/SafeWorkshop/**/*.fbx filter=lfs diff=lfs merge=lfs -text
 Art/Environment/SafeWorkshop/**/*.blend filter=lfs diff=lfs merge=lfs -text
+
+# Ditch blockout source assets
+Art/Environment/Ditch/**/*.fbx filter=lfs diff=lfs merge=lfs -text
+Art/Environment/Ditch/**/*.blend filter=lfs diff=lfs merge=lfs -text
