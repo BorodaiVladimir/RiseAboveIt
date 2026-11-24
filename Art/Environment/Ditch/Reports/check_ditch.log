@@ -1,0 +1,54 @@
+Blender 5.3.0 (hash 02f0899d78e3 built 2026-11-10 01:33:43)
+  ok   выгрузка: 7 FBX SM_Ditch_*
+  ok   есть ArenaDitch_Layout.csv
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+  ok   есть SM_Ditch_Ground
+  ok   у границы есть UCX
+  ok   у пропсов есть UCX
+  ok   PlayerStart стоит на проходимой клетке (-60.0, -2.83, 0.47)
+CHECK reachable cells 15054 (3764 м²)
+  ok   от старта доходим до точки босса (≤ 2 м)
+  ok   от старта доходим до центра площадки босса
+  ok   от старта доходим до верстака в банке (≤ 2.6 м)
+  ok   на склоны не забраться: выше всего 0.69 м
+  ok   за решётку в трубе не пройти: дальше всего x = 68.5
+  ok   в устье трубы заходим (там спавн босса)
+  ok   из бочагов выйти: уклон ≤ 33.6° (< 35°)
+  ok   ям глубже 1 м вне бочагов нет ([])
+  ok   Spawn_Ground_01 над полом на 0.30 м
+  ok   Spawn_Ground_01 не в коллизии: до UCX 0.81 м
+  ok   Spawn_Ground_01: от него можно дойти до игрока
+  ok   Spawn_Ground_02 над полом на 0.12 м
+  ok   Spawn_Ground_02 не в коллизии: до UCX 3.31 м
+  ok   Spawn_Ground_02: от него можно дойти до игрока
+  ok   Spawn_Ground_03 над полом на 0.30 м
+  ok   Spawn_Ground_03 не в коллизии: до UCX 5.17 м
+  ok   Spawn_Ground_03: от него можно дойти до игрока
+  ok   Spawn_Ground_04 над полом на 0.31 м
+  ok   Spawn_Ground_04 не в коллизии: до UCX 2.33 м
+  ok   Spawn_Ground_04: от него можно дойти до игрока
+  ok   Spawn_Ground_05 над полом на 0.30 м
+  ok   Spawn_Ground_05 не в коллизии: до UCX 4.57 м
+  ok   Spawn_Ground_05: от него можно дойти до игрока
+  ok   Spawn_Water_01 на воде (z -0.30, дно -1.66)
+  ok   Spawn_Water_01 не в коллизии: до UCX 6.25 м
+  ok   Spawn_Water_01: от него можно дойти до игрока
+  ok   Spawn_Water_02 на воде (z -0.30, дно -1.84)
+  ok   Spawn_Water_02 не в коллизии: до UCX 1.02 м
+  ok   Spawn_Water_02: от него можно дойти до игрока
+  ok   Spawn_Water_03 на воде (z -0.30, дно -1.52)
+  ok   Spawn_Water_03 не в коллизии: до UCX 7.47 м
+  ok   Spawn_Water_03: от него можно дойти до игрока
+  ok   Spawn_Water_04 на воде (z -0.30, дно -0.62)
+  ok   Spawn_Water_04 не в коллизии: до UCX 0.88 м
+  ok   Spawn_Water_04: от него можно дойти до игрока
+  ok   Spawn_Boss над полом на 0.30 м
+  ok   Spawn_Boss не в коллизии: до UCX 1.73 м
+  ok   Spawn_Boss: от него можно дойти до игрока
+CHECK PASS

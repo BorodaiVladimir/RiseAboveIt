@@ -1,0 +1,23 @@
+Label,Kind,Asset,X,Y,Z,Yaw,Note
+SM_Ditch_Ground,StaticMesh,SM_Ditch_Ground,0,0,0,0,
+SM_Ditch_Water,StaticMesh,SM_Ditch_Water,0,0,0,0,
+SM_Ditch_Props,StaticMesh,SM_Ditch_Props,0,0,0,0,
+SM_Ditch_Reeds,StaticMesh,SM_Ditch_Reeds,0,0,0,0,
+SM_Ditch_Pipe,StaticMesh,SM_Ditch_Pipe,0,0,0,0,
+SM_Ditch_SafeZone,StaticMesh,SM_Ditch_SafeZone,0,0,0,0,
+SM_Ditch_Boundary,StaticMesh,SM_Ditch_Boundary,0,0,0,0,"Hidden in Game, коллизия BlockAll"
+PlayerStart,PlayerStart,,-6000.0,283.1,47.1,-1.4,"у банки (safe zone), смотрит вдоль канавы на трубу"
+SafeZone_Workbench,StaticMesh,SM_Safe_Workbench,-7050.0,230.1,0.0,90.0,"верстак из Arena_Earth; оружие класть на верх пуговицы, 96 см от низа"
+SafeZone_Light,PointLight,,-7150.0,230.1,435.0,0.0,"светодиод под «потолком» банки: тёплый, радиус ~12 м"
+SafeZone_Trigger,TriggerBox,,-6962.5,230.1,200.0,0.0,"зона безопасности: 975x700x400 см (внутренность банки, X вдоль канавы)"
+Spawn_Ground_01,TargetPoint,,-4400.0,1251.1,30.9,-90.0,"наземные (ящерицы, змеи, жабы-танки) — у подножия склона"
+Spawn_Ground_02,TargetPoint,,-3100.0,-955.1,140.6,90.0,"наземные (ящерицы, змеи, жабы-танки) — у подножия склона"
+Spawn_Ground_03,TargetPoint,,-800.0,1146.1,37.7,-90.0,"наземные (ящерицы, змеи, жабы-танки) — у подножия склона"
+Spawn_Ground_04,TargetPoint,,1000.0,-1695.6,33.2,90.0,"наземные (ящерицы, змеи, жабы-танки) — у подножия склона"
+Spawn_Ground_05,TargetPoint,,2400.0,787.0,36.7,-90.0,"наземные (ящерицы, змеи, жабы-танки) — у подножия склона"
+Spawn_Water_01,TargetPoint,,-3000.0,700.5,-30.0,-90.0,"водяные (лягушки, жабы) — из бочагов и ручья, на воде"
+Spawn_Water_02,TargetPoint,,200.0,-958.2,-30.0,90.0,"водяные (лягушки, жабы) — из бочагов и ручья, на воде"
+Spawn_Water_03,TargetPoint,,2700.0,199.3,-30.0,-90.0,"водяные (лягушки, жабы) — из бочагов и ручья, на воде"
+Spawn_Water_04,TargetPoint,,-1400.0,488.0,-30.0,-90.0,"водяные (лягушки, жабы) — из бочагов и ручья, на воде"
+Spawn_Boss,TargetPoint,,6500.0,108.7,35.1,-177.9,босс-мышь выходит из трубы на площадку
+BossArena_Trigger,TriggerBox,,4400.0,31.5,400.0,0.0,арена босса: 3000x3000x800 см (круг r 15 м перед устьем трубы)
